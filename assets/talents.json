@@ -1,0 +1,194 @@
+[
+    {
+        "id": 0,
+        "name": "Transience",
+        "description": "Transience is the dream of the nation of thunder. The fleeting nature of this mortal world is the essence of beauty, for are our lives in this world not akin to the levin flash? Yet the might of the divine comes suddenly, and before the roar of eternity, who can stand.",
+        "periodGroup": 1,
+        "photo": "images/Talent_Transience.jpeg",
+        "location": "images/Location_Talent_Violet_Court.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Freedom",
+        "description": "Freedom is the spirit of the city of wind. To sing is one such freedom. to sing on the land created by the Anemo Archon is to send your heart away with the song on the wind.",
+        "periodGroup": 1,
+        "photo": "images/Talent_Freedom.jpeg",
+        "location": "images/Location_Talent_Forsaken_Rifted.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Resistance",
+        "description": "Resistance is the backbone of the city of Wind. The history of Mondstadt is one of resistances. People rose up to allow the future Mondstadt's poetry to freely be that of the wind and be spread across the land.",
+        "periodGroup": 2,
+        "photo": "images/Talent_Resistance.jpeg",
+        "location": "images/Location_Talent_Forsaken_Rifted.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Diligence",
+        "description": "Industriousness is the foundation of the land of the earth. Industriousness is believing in one's own ability to earn a place in the land of the gods through sweat, wisdom, and power.",
+        "periodGroup": 2,
+        "photo": "images/Talent_Diligence.jpeg",
+        "location": "images/Location_Talent_Taishan_Mansion.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Gold",
+        "description": "Gold is the symbol of the Land of the Earth. Gold is the wealth of Liyue, but Liyue's true wealth is the hearts of its people that shine like gold.",
+        "periodGroup": 3,
+        "photo": "images/Talent_Gold.jpeg",
+        "location": "images/Location_Talent_Taishan_Mansion.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Light",
+        "description": "Light is the yearning of the land of thunder. Though they must live forever on the earth, humanity will always reach for the light. Mortals will pursue and surpass, and they wil never stop. A sealed eternity may, perhaps, look magnificent, but its essence is death.",
+        "periodGroup": 3,
+        "photo": "images/Talent_Light.jpeg",
+        "location": "images/Location_Talent_Violet_Court.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Scattered Piece Of Decarabian's Dream",
+        "description": "Weapon Ascension Material. The people did not bow to Decarabian out of respect or adoration, but because the harsh winds had laid them low. This was the shattered dream and ambition of the Anemo Archon before the rise of Barbatos. He tried so hard to make his dream come true, and so the gragments of that dream are sill mighty.",
+        "periodGroup": 1,
+        "photo": "images/Scattered_Piece_Of_Decarabian's_Dream.png",
+        "location": "images/Scattered_Piece_Of_Decarabian's_Dream_Location.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Mist Veiled Primo Elixir",
+        "description": "Weapon Ascension Material. An elixir of the highest quality. It embodies a state of intertwining order and chaos, and is said to mirror how the world was when it was first created. Of course, a certain someone knows that this was not the case.",
+        "periodGroup": 2,
+        "photo": "images/Mist_Veiled_Primo_Elixir.png",
+        "location": "images/Mist_Veiled_Primo_Elixir_Location.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Chunk Of Aerosiderite",
+        "description": "Weapon Ascension Material. When Khaenri'ah was destroyed, a great sinner created endless monsters with alien, dark blood flowing through their veins. They rampaged across the land, destroying all in their paths. Their lives were mutations, caused by powers beyond this world. The black serpentine dragon Durin that attacked Mondstadt was such a mutation.",
+        "periodGroup": 3,
+        "photo": "images/Chunk_Of_Aerosiderite.png",
+        "location": "images/Chunk_Of_Aerosiderite_Location.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Elegance",
+        "description": "Elegance is the form of the nation of thunder. Elegance abhors vulgarity, and the elegant ever walk alone. Resisting base evils, unmoved by base loves, never taking refuge in base ignorance - that is how one perceives the chasm between the elegeant and the contemptuous.",
+        "periodGroup": 2,
+        "photo": "images/Talent_Elegance.jpeg",
+        "location": "images/Location_Talent_Violet_Court.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ballad",
+        "description": "Poetry is the soul of the Land of the Wind. Poetry is the manifestations of the desire to spread the word. Though nothing is eternal, though nothing will be the same, the wind's poetry will still spread beyond the skies, the land, the seas to every corner of the world.",
+        "periodGroup": 3,
+        "photo": "images/Talent_Ballad.jpeg",
+        "location": "images/Location_Talent_Forsaken_Rifted.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Prosperity",
+        "description": "Prosperity is the pursuit of the Land of the Earth. Prosperity is Liyue's past, present, and future. This prosperity, unmatched and unobtainable by any of the other nations, is all for Liyue and its children to enjoy.",
+        "periodGroup": 1,
+        "photo": "images/Talent_Prosperity.jpeg",
+        "location": "images/Location_Talent_Taishan_Mansion.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Boreal Wolf's Nostalgia",
+        "description": "Weapon Ascension Material. The Wolf King, believing itself to despise humans, thought itself unable to envision a happy life for humanity, making it unworthy of becoming the Lord of the Winds of the world. Therefore, it chose to disappear. Yet, in truth, it gazed on the ones the world abandoned ever so gently.",
+        "periodGroup": 2,
+        "photo": "images/Boreal_Wolfs_Nostalgia.png",
+        "location": "images/Location_Submerged_Valley.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Divine Body From Guyun",
+        "description": "Weapon Ascension Material. That which lurks within and animates this relic are the divine remains of lamenting gods. They are unrealized ideals, designs for a prosperous humanity that could never be. They may now lie deep within stone adn sea, but they will not go quietly into the night.",
+        "periodGroup": 1,
+        "photo": "images/Divine_Body_From_Guyun_Location.png",
+        "location": "images/Mist_Veiled_Primo_Elixir_Location.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Golden Branch Of a Distant Sea",
+        "description": "Weapon Ascension Material. The meaning that lies behind the name Watatsumi is simply the unrequited hopes that the abandoned people who dwelt in the deep sea pinned upon the serpent god that led them. And it was also because the serpent god now had people who worshiped it that it stayed in the world it should have long fled, breaking off the coral branches that adorned its body, treading upon land where it should not have, and facing a foe it could never hope to match - till at last, its divine form was sundered along with the mountains, its ichor turned into plasma, and its will and power became a curse that could never be extinguished: Tatarigami.",
+        "periodGroup": 1,
+        "photo": "images/Golden_Branch_Of_a_Distant_Sea.png",
+        "location": "images/Location_Sand_Burial.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Narukami's Valor",
+        "description": "Weapon Ascension Material. The treasure of the lord of thunder is her majesty, and that majesty is embodied in her valor and wrath. Her wrath comes from the love that persists in her heart, and her valor supports that anger. Thus whomsoever should block the path towards eternity or lay a finger on Inazuma's people shall become her foe. They say that there were four great spirits, three divine foxes, and two great swords - but that the symbol of Her Excellency, the Almighty Narukami Ogosho, could only be a single strike, unsurpassed and brilliant as a meteor.",
+        "periodGroup": 2,
+        "photo": "images/Narukamis_Valor.png",
+        "location": "images/Location_Sand_Burial.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Mask Of The Kijin",
+        "description": "Weapon Ascension Material. Chiyo, a warrior of the oni tribe with the Electro Mitsudomoe emblem emblazoned on her back, was once swallowed whole by a beast from beyond this world that had tiger's body and a serpent's tail while holding back the forces of darkness. At last, she tore the creature's innards apart from within, breaking free. This is the origin of the phrase Chiyo the Tiger-Bite, and would be changed over many years to Torachiyo. But within the belly of the beast, she was stained by a deep sin and saw her comrades ripped to shreds by those blood-red teeth. Steeped in the darkness as far as the eye could see, she would eventually draw her sword upon the almighty Narukami Ogosho. Her sword-arm and one horn would be cloven, and she would flee from the city into the forest like a wounded beast. There, they say that she was taken for some unkown monster and slain by the tengu, or perhaps by the Shuumastuban - or perhaps by a scion of the Iwakura Clan training deep in the mountainsm for her features had been twisted by hatred and the agony of her wounds. Or perhaps she even met the oni-masked, sword-bearing doll near the corpse of the giant serpent, and there ended her life's journey. Few among those who fought against the abyss in those days were spared pitch-dark dreams. Those who slew monsters and then became them were hardly the minority. The border between worlds grows fragile, and corruption of this kind is perhaps not merely monodirectional.",
+        "periodGroup": 3,
+        "photo": "images/Mask_Of_The_Kijin.png",
+        "location": "images/Location_Sand_Burial.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Dream Of The Dandelion Gladiator",
+        "description": "Weapon Ascension Material. Vennessa was freed from her slavery, but that which constrained her only grew greater - from her tribesmen to all of Mondstadt, and even to the concept of freedom itself, extending to the whole world. What she really hoped for, in truth, was that the world might grow stronger.",
+        "periodGroup": 3,
+        "photo": "images/Dream_Of_The_Dandelion_Gladiator.png",
+        "location": "images/Location_Submerged_Valley.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Philosophies Of Ingenuity",
+        "description": "Talent Level-Up material. Ingenuity is the leaf-veins of the nation of wisdom. Ingenuity is completed by harmonious conduct. What is done completes what is thought. Wisdom blooms where the mind, words, and practice converge.",
+        "periodGroup": 2,
+        "photo": "images/Philosophie_Of_Ingenuity.png",
+        "location": "images/Lower_Ground_Of_Chatrakam_Cave_Area.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Philosophies Of Admonition",
+        "description": "Talent Level-Up material. Admonition is the branches of the nation of wisdom. Admonition is completed by good deeds. What is done confers real meaning upon what is said. When one’s mind, words, and deeds are aligned, their nourishment shall guarantee the fruition of wisdom’s tree.",
+        "periodGroup": 1,
+        "photo": "images/Philosophies_Of_Admonition.png",
+        "location": "images/Lower_Ground_Of_Chatrakam_Cave_Area.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Philosophies Of Praxis",
+        "description": "Talent Level-Up material. Praxes are the roots of the nation of wisdom. Praxes bring forth the fruit of wisdom. Practice grants itself meaning, and it is only by treading a path that unites action, speech, and thought that the wise may reach perfection.",
+        "periodGroup": 3,
+        "photo": "images/Philosophies_Of_Praxis.png",
+        "location": "images/Lower_Ground_Of_Chatrakam_Cave_Area.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Golden Talisman of the Forest Dew",
+        "description": "Weapon Level-Up material. 'Mortals hold dear three things only: the spring water that embraces the moonlight, verdant life, and ageless youth...' The nature of 'wisdom' is not domination over all minds or scheming to gain all the benefit. Instead, it is about empowering even ordinary beings to one day overcome their imposed constraints. Though the roar of the tiger is no longer heard in the forest and the resilient guardians would seclude themselves within the dreams of children... On the night when every secret golden seal is lifted and all dreams glow like amber in the moonlight, perhaps she and her beloved people will eventually win genuine freedom.",
+        "periodGroup": 1,
+        "photo": "images/Golden_Talisman_of_the_Forest_Dew.png",
+        "location": "images/Tower_Of_Abject_Pride.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Oasis Garden’s Truth",
+        "description": "Weapon Level-Up material. 'Who would worship a departed god?' The Lord of Flowers was once in alliance with two other gods. Apart from wisdom and power, she also brought mercy and joy to her people. Just as the earth needs more than the burning sunshine and pouring rain, to the people of the Lord of Flowers, joy and love, singing and music, and wine and extravagance were just as vital as strength and sensibility. It is said that flowers blossom so that they may enjoy a spectacular death, and that death was precisely the wholehearted pursuit of the Lord of Flowers — for death adds bitterness to lost joy, and intensifies with time across endless memories. The ignorant Lord of Deserts was never aware of her reasoning. He only reveled in her immense charm and grace — and as misguided as such fervent affections might be, they were well within the calculations of the Lord of Flowers.",
+        "periodGroup": 2,
+        "photo": "images/Oasis_Garden’s_Truth.png",
+        "location": "images/Tower_Of_Abject_Pride.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Olden Days of Scorching Might",
+        "description": "Weapon Level-Up material. In the era when the ignorant Lord of Deserts ruled, his power descended upon every inch of the land like the scorching sun. Ancient stone tablets record that he turned his power into seven rays of blinding light or seven pillars, which he granted equally and mercifully to everyone. No one was neglected, nor was anyone discontented. That was a forgotten golden era, an era when the Lord of Flowers had faded into the sands and the Lord of Verdure was determined to leave. Only the descendants in the yellow sand chose to follow their god. Even as the grim shadow of calamity loomed, the power in which they had faith shone brightly like amber and gold. Yet calamity befell nonetheless, and the golden insectoid insignias were buried beneath the depths of shrine and palace, under collapsed pillars engraved with images of eagles and bulls.",
+        "periodGroup": 3,
+        "photo": "images/Olden_Days_of_Scorching_Might.png",
+        "location": "images/Tower_Of_Abject_Pride.jpg"
+    }
+]
